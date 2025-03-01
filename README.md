@@ -5,8 +5,8 @@ Contains code scripts written in different scripting languages including Go, Rus
 
 You Can Review For More Information:
 
-https://www.extrahop.com/resources/attacks/dcsync
-https://www.semperis.com/blog/dcsync-attack/
-https://www.sentinelone.com/blog/active-directory-dcsync-attacks/
-https://www.netwrix.com/privilege_escalation_using_mimikatz_dcsync.html
-https://forestall.io/
+*  https://www.extrahop.com/resources/attacks/dcsync
+*  https://www.semperis.com/blog/dcsync-attack/
+*  https://www.sentinelone.com/blog/active-directory-dcsync-attacks/
+*  https://www.netwrix.com/privilege_escalation_using_mimikatz_dcsync.html
+*  https://forestall.io/
