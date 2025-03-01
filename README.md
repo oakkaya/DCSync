@@ -1,2 +1,3 @@
 # DCSync Attack Scripts
-Contains code scripts written in different languages, mainly go, rust typescript, to organize a DCSync attack
+
+Contains code scripts written in different scripting languages including Go, Rust, Typescript etc. to orchestrate a DCSync attack, which may have a low detection rate.
